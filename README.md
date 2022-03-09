@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Here is Shahadat Hossain
 
 <!--
 **shahadathossain3/shahadathossain3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h5>Find Me<h5>
+<ul>
+  <li><b>Email:</b> shahadathossain8721@gmail.com</li>
+  <li><b>LinkedIn:</b> https://www.linkedin.com/in/shahadathossain1</li>
+  <li><b>Hackerrank:</b> https://www.hackerrank.com/shahadathossain1</li>
+  <li><b>URI Online Judge/beecrowd:</b> https://www.beecrowd.com.br/judge/en/profile/163040</li>
+  </ul>
